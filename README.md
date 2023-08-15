@@ -4,11 +4,12 @@
 
   ### 👀 We are interested in [Graph Databases](https://www.wikiwand.com/en/Graph_database) and [Knowledge Bases](https://www.wikiwand.com/en/Knowledge_base), [Personal Information Management](https://www.wikiwand.com/en/Personal_information_management)
 
-  ### 🌱 HermesBase is under development stay tuned
+  ### 🌱 HermesBase is under development. Stay tuned
 
   ### 💞️ We are looking to create decentralized communities of users that utilize HermesBase to create their own collaborative [management information systems](https://www.wikiwand.com/en/Management_information_system)
 
-  ### 📫 How to reach project coordinator ...
+  ### 📫 How to reach project coordinator
+  Send an email to athanassios@healis.eu
 
 
 ## About the project name
