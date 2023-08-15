@@ -6,7 +6,7 @@
 
   ### 🌱 HermesBase is under development stay tuned
 
-  ### 💞️ We are looking to collaborate on creating decentralized communities of users that utilize HermesBase to create their own collaborative [management information systems](https://www.wikiwand.com/en/Management_information_system)
+  ### 💞️ We are looking to create decentralized communities of users that utilize HermesBase to create their own collaborative [management information systems](https://www.wikiwand.com/en/Management_information_system)
 
   ### 📫 How to reach project coordinator ...
 
