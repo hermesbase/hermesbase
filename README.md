@@ -2,7 +2,7 @@
 
   ### 👋 Hi, welcome to HermesBase
 
-  ### 👀 We are interested in [Graph Databases (GDBs)](https://www.wikiwand.com/en/Graph_database) and [Knowledge Graph-Bases (KGBs)](https://www.wikiwand.com/en/Knowledge_base), [Personal Information Management (PIM)](https://www.wikiwand.com/en/Personal_information_management) and [Enterprise Data Management (EDM)](https://wikiwand.com/en/Enterprise_data_management)
+  ### 👀 We are interested in [Graph Databases (GDBs)](https://www.wikiwand.com/en/Graph_database) and [Knowledge Graphs (KGs)](https://www.wikiwand.com/en/Knowledge_graph), [Personal Information Management (PIM)](https://www.wikiwand.com/en/Personal_information_management) and [Enterprise Data Management (EDM)](https://wikiwand.com/en/Enterprise_data_management)
 
   ### 🌱 HermesBase is under development. Stay tuned
 
