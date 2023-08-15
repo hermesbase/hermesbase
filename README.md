@@ -2,11 +2,11 @@
 
   ### 👋 Hi, welcome to HermesBase
 
-  ### 👀 We are interested in Graph Databases nad Knowledge Bases
+  ### 👀 We are interested in [Graph Databases](https://www.wikiwand.com/en/Graph_database) and [Knowledge Bases](https://www.wikiwand.com/en/Knowledge_base), [Personal Information Management](https://www.wikiwand.com/en/Personal_information_management)
 
-  ### 🌱 HermesBase is under development ...
+  ### 🌱 HermesBase is under development stay tuned
 
-  ### 💞️ We are looking to collaborate on creating collaborative,  knowledge
+  ### 💞️ We are looking to collaborate on creating decentralized communities of users that utilize HermesBase to create their own collaborative management information systems, also known as [Knowledge Bases](https://www.wikiwand.com/en/Knowledge_base)
 
   ### 📫 How to reach project coordinator ...
 
