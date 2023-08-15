@@ -8,7 +8,7 @@
 
   ### 💞️ We are looking to create decentralized communities of users that utilize HermesBase to create their own collaborative [management information systems](https://www.wikiwand.com/en/Management_information_system)
 
-  ### 📫 How to reach project coordinator
+  ### 📫 How to reach project coordinator and creator of the HermesBase
   Send an email to athanassios@healis.eu
 
 
